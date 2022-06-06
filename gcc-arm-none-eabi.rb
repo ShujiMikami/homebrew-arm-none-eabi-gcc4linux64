@@ -13,9 +13,9 @@ class GccArmNoneEabi < Formula
   #sha256 "97dbb4f019ad1650b732faffcc881689cedc14e2b7ee863d390e0a41ef16c9a3"
 
   def install
-    if OS.linux?
+    if OS.linux? then
       url url_linux
-    elseif OS.mac?
+    elsif OS.mac? then
       url url_mac
     end
 
