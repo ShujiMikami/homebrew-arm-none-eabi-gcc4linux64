@@ -1,2 +1,2 @@
-# homebrew-arm-none-eabi-gcc4linux64
-my private repository to brew arm-none-eabi-toolchain for linux64
+# homebrew-personal-arm-none-eabi-gcc
+my private repository to brew arm-none-eabi-toolchain
